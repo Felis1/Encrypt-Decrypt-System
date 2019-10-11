@@ -1,0 +1,49 @@
+/* ==============TAGS================== */
+html body{
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+p{
+  display: inline-block;
+}
+textarea{
+  max-width: 300px;
+  max-height: 200px;
+  min-width: 150px;
+  min-height: 100px;
+  outline: none;
+}
+input{
+  width: 400px;
+  height: 100px;
+}
+/* ======================================== */
+
+/* =============CLASSES===================== */
+.p-editor{
+  display: inline-block;
+  margin: 10px;
+}
+.title{
+  float: left;
+}
+.fix-position{
+  word-wrap: break-word;
+  background-color: #8db795;
+  width: 500px;
+  height: 100px;
+  vertical-align: top;
+  display: inline-block;
+}
+.encrypt-container{
+  height: 110px;
+  margin-top: 2%;
+}
+.decrypt-container{
+  margin-top: 10%;
+  height: 110px;
+}
+/* ===================================== */
+/* =================ID'S==================== */
+/* ========================================= */
